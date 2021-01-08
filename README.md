@@ -13,7 +13,7 @@ With this dataset I will visualize and predict prices and sales with Method Mach
 4. AdaBoost
 5. K-Nearest Neighbors (KNN)
 
-# Prediction
+# Model Evaluation
 
 XGBoost
 ![xgb](https://user-images.githubusercontent.com/44828347/104028205-09eb7880-51fb-11eb-9425-021acaedceea.jpg)
