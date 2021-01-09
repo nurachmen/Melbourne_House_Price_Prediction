@@ -35,9 +35,20 @@ DecisionTree
 
 AdaBoost
 
+![Ada](https://user-images.githubusercontent.com/44828347/104076504-d8010300-5248-11eb-881e-84cf3a59da01.jpg)
+
+![download 4](https://user-images.githubusercontent.com/44828347/104076518-de8f7a80-5248-11eb-93a4-d7584f87159f.png)
+
 KNN
 
+![Knn](https://user-images.githubusercontent.com/44828347/104076507-d9323000-5248-11eb-9051-5f5bdd5ee5f2.jpg)
+
+![download 5](https://user-images.githubusercontent.com/44828347/104076519-df281100-5248-11eb-8732-13e5dfde0a82.png)
+
 ThankYou
+
+
+
 
 
 
