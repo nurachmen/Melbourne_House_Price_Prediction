@@ -1,4 +1,4 @@
-# Predict Melbourne House Price
+# Melbourne House Price Prediction
 Data Cleansing, Data Visualization and Melbourne House Price Prediction
 
 From the dataset which can be found here :https://www.kaggle.com/anthonypino/melbourne-housing-market
